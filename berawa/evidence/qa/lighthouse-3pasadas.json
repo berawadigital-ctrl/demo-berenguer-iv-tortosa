@@ -1,0 +1,78 @@
+{
+ "mobile": {
+  "runs": [
+   {
+    "performance": 99,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 58,
+    "lcp_s": 1.59,
+    "lh": "13.6.0"
+   },
+   {
+    "performance": 99,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 58,
+    "lcp_s": 1.56,
+    "lh": "13.6.0"
+   },
+   {
+    "performance": 94,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 58,
+    "lcp_s": 1.45,
+    "lh": "13.6.0"
+   }
+  ],
+  "mediana": {
+   "performance": 99,
+   "accessibility": 100,
+   "best-practices": 100,
+   "seo": 58
+  },
+  "seo_fallos": [
+   "is-crawlable",
+   "robots-txt"
+  ]
+ },
+ "desktop": {
+  "runs": [
+   {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 58,
+    "lcp_s": 0.36,
+    "lh": "13.6.0"
+   },
+   {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 58,
+    "lcp_s": 0.36,
+    "lh": "13.6.0"
+   },
+   {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 58,
+    "lcp_s": 0.41,
+    "lh": "13.6.0"
+   }
+  ],
+  "mediana": {
+   "performance": 100,
+   "accessibility": 100,
+   "best-practices": 100,
+   "seo": 58
+  },
+  "seo_fallos": [
+   "is-crawlable",
+   "robots-txt"
+  ]
+ }
+}

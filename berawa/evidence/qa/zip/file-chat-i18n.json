@@ -1,0 +1,451 @@
+{
+ "url": "file:///tmp/zip-berenguer-iv-tortosa/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tipos de habitación tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 54 habitaciones de 5 tipos: Doble 2 camas (máximo 2 personas), Doble con cama de matrimonio (máximo 2), Triple (máximo 3), Doble econó"
+    },
+    {
+     "q": "¿Tienen aire acondicionado y minibar?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen calefacción y aire acondicionado, WiFi gratuito, TV de plasma, teléfono y minibar (de pago). El baño es completo, co"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Tarifas «desde» por noche, según su web (29/10/2026): 69 € la Doble, la Doble 2 camas y la Doble 2 camas uso individual; 74 € la Doble econó"
+    },
+    {
+     "q": "¿Hay desayuno y lavandería?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Su web menciona entre los servicios WiFi gratis, desayunos, parking externo (limitado) y servicio de lavandería."
+    },
+    {
+     "q": "¿Tienen parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Su web indica «Parking externo (limitado)»: hay plazas, pero limitadas. Para reservar una, consulta con el hotel."
+    },
+    {
+     "q": "¿Hay salas de reuniones?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Dispone de tres salas que se adaptan a las necesidades de cada reunión o celebración, con WiFi gratuito."
+    },
+    {
+     "q": "¿Qué descuentos tiene el club?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Según su web (29/10/2026), presenta un club: el Nivel 1 Key da 5 euros de descuento y el Nivel 2 Premium (+10 noches) da 10 euros de descuen"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes usar el botón «Introducir fechas y ver precios» de su web, escribir a berenguer@key-hotels.com o llamar al 977 449 580. Este asistent"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Está en la calle Despuig, 36, en una vía del centro de Tortosa, a un minuto a pie de la plaza de Alfonso XII, y a la misma distancia del Par"
+    },
+    {
+     "q": "¿Qué hay cerca de Tortosa?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su web cita el Parque Natural de Els Ports a 20 km y, a la misma distancia, el Delta del Ebro."
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono 977 449 580 y correo berenguer@key-hotels.com; su web también tiene un formulario de contacto."
+    },
+    {
+     "q": "¿Quién es el titular del hotel?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Su aviso legal indica como titular a HOTEL BERENGUER IV SA (CIF A61867834), con domicilio en Despuig, 36, Tortosa."
+    },
+    {
+     "q": "¿Hay ofertas?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Su web dice que lanzan ofertas periódicamente; no hay ninguna publicada ahora mismo en su página de ofertas."
+    },
+    {
+     "q": "¿Tienen piscina y gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 977 449 580 · berenguer@key-hotels.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes usar el botón «Introducir fechas y ver precios» de su web, escribir a berenguer@key-hotels.com o llamar al 977 449 580. Este asistent"
+    },
+    {
+     "q": "¿Cuántas estrellas tiene el hotel?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 977 449 580 · berenguer@key-hotels.com."
+    }
+   ],
+   "chips": [
+    "¿Qué tipos de habitación hay?",
+    "¿Tienen parking?",
+    "¿Cuánto cuesta una noche?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "room1_n",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quins tipus d'habitació teniu?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 54 habitacions de 5 tipus: Doble 2 llits (màxim 2 persones), Doble amb llit de matrimoni (màxim 2), Triple (màxim 3), Doble econòmica amb"
+    },
+    {
+     "q": "Teniu aire condicionat i minibar?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen calefacció i aire condicionat, WiFi gratuït, TV de plasma, telèfon i minibar (de pagament). El bany és complet, amb as"
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Tarifes «des de» per nit, segons la seva web (29/10/2026): 69 € la Doble, la Doble 2 llits i la Doble 2 llits ús individual; 74 € la Doble e"
+    },
+    {
+     "q": "Hi ha esmorzar i bugaderia?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La seva web esmenta entre els serveis WiFi gratis, esmorzars, pàrquing extern (limitat) i servei de bugaderia."
+    },
+    {
+     "q": "Teniu pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La seva web indica «Parking extern (limitat)»: hi ha places, però limitades. Per reservar-ne una, consulta amb l'hotel."
+    },
+    {
+     "q": "Hi ha sales de reunions?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Disposa de tres sales que s'adapten a les necessitats de cada reunió o celebració, amb WiFi gratuït."
+    },
+    {
+     "q": "Quins descomptes té el club?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Segons la seva web (29/10/2026), presenta un club: el Nivell 1 Key dona 5 euros de descompte i el Nivell 2 Premium (+10 nits) dona 10 euros "
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Pots fer servir el botó «Introducir fechas y ver precios» de la seva web, escriure a berenguer@key-hotels.com o trucar al 977 449 580. Aques"
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "És al carrer Despuig, 36, en una via del centre de Tortosa, a un minut a peu de la plaça d'Alfonso XII, i a la mateixa distància del Parc Te"
+    },
+    {
+     "q": "Què hi ha a prop de Tortosa?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La seva web cita el Parc Natural dels Ports a 20 km i, a la mateixa distància, el Delta de l'Ebre."
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telèfon 977 449 580 i correu berenguer@key-hotels.com; la seva web també té un formulari de contacte."
+    },
+    {
+     "q": "Qui és el titular de l'hotel?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "El seu avís legal indica com a titular HOTEL BERENGUER IV SA (CIF A61867834), amb domicili a Despuig, 36, Tortosa."
+    },
+    {
+     "q": "Hi ha ofertes?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "La seva web diu que llancen ofertes periòdicament; no n'hi ha cap de publicada ara mateix a la seva pàgina d'ofertes."
+    },
+    {
+     "q": "Teniu piscina i gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 977 449 580 · berenguer@key-hotels.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Pots fer servir el botó «Introducir fechas y ver precios» de la seva web, escriure a berenguer@key-hotels.com o trucar al 977 449 580. Aques"
+    },
+    {
+     "q": "Quantes estrelles té l'hotel?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 977 449 580 · berenguer@key-hotels.com."
+    }
+   ],
+   "chips": [
+    "Quins tipus d'habitació hi ha?",
+    "Teniu pàrquing?",
+    "Quant costa una nit?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "What room types do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 54 rooms of 5 types: Twin with 2 beds (maximum 2 guests), Double with a double bed (maximum 2), Triple (maximum 3), Economy double wi"
+    },
+    {
+     "q": "Do they have air conditioning and a minibar?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have heating and air conditioning, free WiFi, a plasma TV, telephone and minibar (paid). The bathroom is full, with hairdryer and "
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "\"From\" rates per night according to their website (29/10/2026): €69 for the Double, the Twin and the Twin for single use; €74 for the Econom"
+    },
+    {
+     "q": "Is there breakfast and laundry?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Their website lists free WiFi, breakfasts, external parking (limited) and a laundry service among its services."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Their website says \"Parking externo (limitado)\": there are spaces, but limited. To reserve one, check with the hotel."
+    },
+    {
+     "q": "Are there meeting rooms?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "It has three rooms that adapt to the needs of each meeting or celebration, with free WiFi."
+    },
+    {
+     "q": "What discounts does the club offer?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "According to their website (29/10/2026), it has a club: Level 1 Key gives 5 euros off and Level 2 Premium (+10 nights) gives 10 euros off; b"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can use the \"Introducir fechas y ver precios\" button on their website, email berenguer@key-hotels.com or call 977 449 580. This assistan"
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It is at Despuig street 36, on a street in the centre of Tortosa, a one-minute walk from Alfonso XII square and the same distance from Teodo"
+    },
+    {
+     "q": "What is there near Tortosa?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Their website mentions the Els Ports Natural Park at 20 km and, at the same distance, the Ebro Delta."
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone 977 449 580 and email berenguer@key-hotels.com; their website also has a contact form."
+    },
+    {
+     "q": "Who owns the hotel?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Their legal notice names HOTEL BERENGUER IV SA (CIF A61867834) as the owner, with registered office at Despuig 36, Tortosa."
+    },
+    {
+     "q": "Are there any offers?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Their website says they launch offers periodically; none is published right now on their offers page."
+    },
+    {
+     "q": "Is there a pool and a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 977 449 580 · berenguer@key-hotels.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can use the \"Introducir fechas y ver precios\" button on their website, email berenguer@key-hotels.com or call 977 449 580. This assistan"
+    },
+    {
+     "q": "How many stars does the hotel have?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 977 449 580 · berenguer@key-hotels.com."
+    }
+   ],
+   "chips": [
+    "What room types are there?",
+    "Is there parking?",
+    "How much is a night?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Quels types de chambre avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 54 chambres de 5 types : Double 2 lits (2 personnes maximum), Double avec grand lit (2 maximum), Triple (3 maximum), Double économ"
+    },
+    {
+     "q": "Y a-t-il la climatisation et un minibar ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres ont chauffage et climatisation, WiFi gratuit, TV à écran plasma, téléphone et minibar (payant). La salle de bain est complète, "
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Tarifs « à partir de » par nuit selon leur site (29/10/2026) : 69 € la Double, la Double 2 lits et la Double 2 lits usage individuel ; 74 € "
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner et une blanchisserie ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Leur site mentionne parmi les services le WiFi gratuit, les petits-déjeuners, le parking externe (limité) et un service de blanchisserie."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Leur site indique « Parking externo (limitado) » : il y a des places, mais limitées. Pour en réserver une, renseignez-vous auprès de l'hôtel"
+    },
+    {
+     "q": "Y a-t-il des salles de réunion ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il dispose de trois salles qui s'adaptent aux besoins de chaque réunion ou célébration, avec WiFi gratuit."
+    },
+    {
+     "q": "Quelles réductions offre le club ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Selon leur site (29/10/2026), il propose un club : le Niveau 1 Key offre 5 euros de réduction et le Niveau 2 Premium (+10 nuits) offre 10 eu"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez utiliser le bouton « Introducir fechas y ver precios » de leur site, écrire à berenguer@key-hotels.com ou appeler le 977 449 580"
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Il est situé rue Despuig 36, dans une rue du centre de Tortosa, à une minute à pied de la place Alfonso XII et à la même distance du parc Te"
+    },
+    {
+     "q": "Qu'y a-t-il près de Tortosa ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Leur site cite le parc naturel d'Els Ports à 20 km et, à la même distance, le delta de l'Èbre."
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone 977 449 580 et e-mail berenguer@key-hotels.com ; leur site a aussi un formulaire de contact."
+    },
+    {
+     "q": "Qui est le titulaire de l'hôtel ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Leurs mentions légales indiquent HOTEL BERENGUER IV SA (CIF A61867834) comme titulaire, avec siège à Despuig 36, Tortosa."
+    },
+    {
+     "q": "Y a-t-il des offres ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Leur site dit qu'ils lancent des offres périodiquement ; aucune n'est publiée pour le moment sur leur page d'offres."
+    },
+    {
+     "q": "Y a-t-il une piscine et une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 977 449 580 · berenguer@key-hotels.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez utiliser le bouton « Introducir fechas y ver precios » de leur site, écrire à berenguer@key-hotels.com ou appeler le 977 449 580"
+    },
+    {
+     "q": "Combien d'étoiles a l'hôtel ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 977 449 580 · berenguer@key-hotels.com."
+    }
+   ],
+   "chips": [
+    "Quels types de chambre y a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Combien coûte une nuit ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
