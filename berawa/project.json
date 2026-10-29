@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-berenguer-iv-tortosa",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T00:20:00+01:00",
+ "updated_at": "2026-10-29T00:26:00+01:00",
+ "business": {
+  "name": "Hotel Berenguer IV",
+  "legal_name": "HOTEL BERENGUER IV, S.A.",
+  "registry_ids": [
+   "CIF A61867834"
+  ],
+  "url": "https://www.hotelberenguer.com/es/",
+  "domain": "hotelberenguer.com",
+  "municipality": "Tortosa",
+  "province": "Tarragona",
+  "address": "Despuig, 36 · 43500 Tortosa (Tarragona)",
+  "phones": [
+   "977 449 580"
+  ],
+  "emails": [
+   "berenguer@key-hotels.com"
+  ],
+  "sector": "hotel urbano de centro de ciudad"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web, direccion)",
+  "url": "https://www.google.com/maps/place/Hotel+Berenguer+IV/@40.808558,0.5227786,17z/data=!4m9!3m8!1s0x12a0e4a6e556c155:0x114c7fda9283d3ed!5m2!4m1!1i2!8m2!3d40.808558!4d0.5227786!16s%2Fg%2F1tmk0s33",
+  "date": "2026-10-29T00:21:16+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "berenguer@key-hotels.com",
+  "note": "La web del negocio reserva con el motor Mirai (widget sin URL propia): la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://www.hotelberenguer.com/es/",
+  "date": "2026-10-29T00:22:19+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "primer tipo de negocio sin precedente: hotel urbano de centro de ciudad (el modelo aprobado Cazorla Rural es alojamiento rural)",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

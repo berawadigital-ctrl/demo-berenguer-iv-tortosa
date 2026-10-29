@@ -1,0 +1,46 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelberenguer.com/es/",
+ "read_at": "2026-10-29T00:20:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelberenguer.com/es/",
+   "sha256": "c0fafbd5665fcc13a9ebff0c5e2794eb0af7ba082ba1ef87378d777ad0c611c2",
+   "chars": 4665
+  },
+  {
+   "url": "https://www.hotelberenguer.com/es/aviso-legal/",
+   "sha256": "0bfa31607fd585807c24c20548f950ab0b054be2cb5d5b8c1d9ffd65b8f2d685",
+   "chars": 6115
+  },
+  {
+   "url": "https://www.hotelberenguer.com/es/contacto/",
+   "sha256": "b28a2bab7a24d64244c0306939251d3fb517ba6309ff04eb4af72516e8acea20",
+   "chars": 2835
+  },
+  {
+   "url": "https://www.hotelberenguer.com/es/habitaciones/",
+   "sha256": "ebafbb6dd43d4e0038da68daf323ea11d589af1014805c16c724c363c53761e5",
+   "chars": 4098
+  },
+  {
+   "url": "https://www.hotelberenguer.com/es/habitaciones/triple-5854/",
+   "sha256": "47e121e7da1917f3d1cc0db85f5d83fae752a1e6ca210216072bcca590fa35fd",
+   "chars": 3250
+  },
+  {
+   "url": "https://www.hotelberenguer.com/es/ofertas/",
+   "sha256": "c5fc7b3da715900349e5d4cc8dfa9b393850d2cca98912bd7a6c940e794c80c1",
+   "chars": 2733
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelberenguer.com/es/fotos/",
+  "https://www.hotelberenguer.com/es/habitaciones/doble-2-camas-3342/",
+  "https://www.hotelberenguer.com/es/habitaciones/doble-2-camas-uso-individual-32850/",
+  "https://www.hotelberenguer.com/es/habitaciones/doble-5648/",
+  "https://www.hotelberenguer.com/es/habitaciones/habitacion-doble-economica-con-ducha-26691/",
+  "https://www.hotelberenguer.com/es/politica-de-cookies/"
+ ]
+}

@@ -1,0 +1,808 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-berenguer-iv-tortosa",
+ "source_site": "https://www.hotelberenguer.com/",
+ "source_read_at": "2026-10-29T00:20:00+01:00",
+ "note": "Respuestas solo con datos publicados en hotelberenguer.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "tipos de",
+     "dobles",
+     "triple",
+     "individual",
+     "cama",
+     "capacidad",
+     "cuantas personas",
+     "cuantas habitaciones"
+    ],
+    "ca": [
+     "habitacio",
+     "tipus d",
+     "dobles",
+     "triple",
+     "individual",
+     " llit",
+     "capacitat",
+     "quantes persones",
+     "quantes habitacions"
+    ],
+    "en": [
+     "room",
+     "types of",
+     "double",
+     "triple",
+     "single",
+     "bed",
+     "capacity",
+     "how many guests",
+     "how many rooms"
+    ],
+    "fr": [
+     "chambre",
+     "types de",
+     "double",
+     "triple",
+     "individuel",
+     " lit",
+     "capacite",
+     "combien de personnes",
+     "combien de chambres"
+    ]
+   },
+   "a": {
+    "es": "Tiene 54 habitaciones de 5 tipos: Doble 2 camas (máximo 2 personas), Doble con cama de matrimonio (máximo 2), Triple (máximo 3), Doble económica con ducha (máximo 2) y Doble 2 camas uso individual (máximo 1 persona).",
+    "ca": "Té 54 habitacions de 5 tipus: Doble 2 llits (màxim 2 persones), Doble amb llit de matrimoni (màxim 2), Triple (màxim 3), Doble econòmica amb dutxa (màxim 2) i Doble 2 llits ús individual (màxim 1 persona).",
+    "en": "It has 54 rooms of 5 types: Twin with 2 beds (maximum 2 guests), Double with a double bed (maximum 2), Triple (maximum 3), Economy double with shower (maximum 2) and Twin for single use (maximum 1 guest).",
+    "fr": "Il compte 54 chambres de 5 types : Double 2 lits (2 personnes maximum), Double avec grand lit (2 maximum), Triple (3 maximum), Double économique avec douche (2 maximum) et Double 2 lits usage individuel (1 personne maximum)."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/",
+     "quote": "54 habitaciones de 5 tipos"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/",
+     "quote": "Doble 2 camas Max. 2 personas"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/",
+     "quote": "Triple Max. 3 personas"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/",
+     "quote": "Max. 1 persona"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/",
+     "quote": "Habitación Doble Económica con Ducha Max. 2 personas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "aire acondicionado",
+     "calefaccion",
+     "wifi",
+     "wi fi",
+     "internet",
+     "television",
+     " tv",
+     "minibar",
+     "secador",
+     "bano",
+     "banera",
+     "equipamiento",
+     "que incluye"
+    ],
+    "ca": [
+     "aire condicionat",
+     "calefaccio",
+     "wifi",
+     "wi fi",
+     "internet",
+     "televisio",
+     " tv",
+     "minibar",
+     "assecador",
+     "bany",
+     "banyera",
+     "equipament",
+     "que inclou"
+    ],
+    "en": [
+     "air conditioning",
+     "heating",
+     "wifi",
+     "wi fi",
+     "internet",
+     "television",
+     " tv",
+     "minibar",
+     "hairdryer",
+     "bathroom",
+     "bathtub",
+     "equipment",
+     "what is included"
+    ],
+    "fr": [
+     "climatisation",
+     "chauffage",
+     "wifi",
+     "wi fi",
+     "internet",
+     "television",
+     " tv",
+     "minibar",
+     "seche cheveux",
+     "salle de bain",
+     "baignoire",
+     "equipement",
+     "qu est ce qui est inclus"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones tienen calefacción y aire acondicionado, WiFi gratuito, TV de plasma, teléfono y minibar (de pago). El baño es completo, con secador y amenities; la Doble económica tiene plato de ducha pequeño en lugar de bañera.",
+    "ca": "Les habitacions tenen calefacció i aire condicionat, WiFi gratuït, TV de plasma, telèfon i minibar (de pagament). El bany és complet, amb assecador i amenities; la Doble econòmica té un plat de dutxa petit en lloc de banyera.",
+    "en": "The rooms have heating and air conditioning, free WiFi, a plasma TV, telephone and minibar (paid). The bathroom is full, with hairdryer and amenities; the Economy double has a small shower tray instead of a bathtub.",
+    "fr": "Les chambres ont chauffage et climatisation, WiFi gratuit, TV à écran plasma, téléphone et minibar (payant). La salle de bain est complète, avec sèche-cheveux et produits d'accueil ; la Double économique a un petit bac à douche au lieu d'une baignoire."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "con calefacción y aire acondicionado"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "conexión gratuita a Internet WIFI, TV de plasma, compact disc, teléfono y minibar"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/triple-5854/",
+     "quote": "Minibar de pago"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "secador y una amplia variedad de amenities"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/",
+     "quote": "Baño completo con plato de ducha pequeño"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "precios",
+   "keys": {
+    "es": [
+     "precio",
+     "tarifa",
+     "cuanto cuesta",
+     "cuanto vale",
+     "euros",
+     "por noche",
+     "barato",
+     "desde cuanto"
+    ],
+    "ca": [
+     "preu",
+     "tarifa",
+     "quant costa",
+     "quant val",
+     "euros",
+     "per nit",
+     "barat",
+     "des de quant"
+    ],
+    "en": [
+     "price",
+     "rate",
+     "how much",
+     "euro",
+     "per night",
+     "cheap",
+     " cost"
+    ],
+    "fr": [
+     "prix",
+     "tarif",
+     "combien coute",
+     "combien ca coute",
+     "combien vaut",
+     "euros",
+     "par nuit",
+     "pas cher",
+     "a partir de"
+    ]
+   },
+   "a": {
+    "es": "Tarifas «desde» por noche, según su web (29/10/2026): 69 € la Doble, la Doble 2 camas y la Doble 2 camas uso individual; 74 € la Doble económica con ducha; 89 € la Triple. Confírmalo al reservar.",
+    "ca": "Tarifes «des de» per nit, segons la seva web (29/10/2026): 69 € la Doble, la Doble 2 llits i la Doble 2 llits ús individual; 74 € la Doble econòmica amb dutxa; 89 € la Triple. Confirma-ho en reservar.",
+    "en": "\"From\" rates per night according to their website (29/10/2026): €69 for the Double, the Twin and the Twin for single use; €74 for the Economy double with shower; €89 for the Triple. Confirm it when you book.",
+    "fr": "Tarifs « à partir de » par nuit selon leur site (29/10/2026) : 69 € la Double, la Double 2 lits et la Double 2 lits usage individuel ; 74 € la Double économique avec douche ; 89 € la Triple. Confirmez-le lors de la réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/",
+     "quote": "Desde 69€ por noche"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/",
+     "quote": "Desde 74€ por noche"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/habitaciones/",
+     "quote": "Desde 89€ por noche"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "servicios",
+   "keys": {
+    "es": [
+     "servicio",
+     "desayuno",
+     "lavanderia",
+     "colada",
+     "wifi gratis",
+     "que ofrece"
+    ],
+    "ca": [
+     "servei",
+     "esmorzar",
+     "bugaderia",
+     "que ofereix"
+    ],
+    "en": [
+     "service",
+     "breakfast",
+     "laundry",
+     "what do you offer"
+    ],
+    "fr": [
+     "service",
+     "petit dejeuner",
+     "blanchisserie",
+     "buanderie",
+     "que proposez"
+    ]
+   },
+   "a": {
+    "es": "Su web menciona entre los servicios WiFi gratis, desayunos, parking externo (limitado) y servicio de lavandería.",
+    "ca": "La seva web esmenta entre els serveis WiFi gratis, esmorzars, pàrquing extern (limitat) i servei de bugaderia.",
+    "en": "Their website lists free WiFi, breakfasts, external parking (limited) and a laundry service among its services.",
+    "fr": "Leur site mentionne parmi les services le WiFi gratuit, les petits-déjeuners, le parking externe (limité) et un service de blanchisserie."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "Wi-Fi gratis Desayunos Parking externo (limitado) Servicio de lavandería"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcar",
+     "aparcamiento",
+     "coche",
+     "garaje"
+    ],
+    "ca": [
+     "parking",
+     "pàrquing",
+     "parquing",
+     "aparcar",
+     "aparcament",
+     "cotxe",
+     "garatge"
+    ],
+    "en": [
+     "parking",
+     "park",
+     "car",
+     "garage"
+    ],
+    "fr": [
+     "parking",
+     "stationn",
+     "voiture",
+     "garage"
+    ]
+   },
+   "a": {
+    "es": "Su web indica «Parking externo (limitado)»: hay plazas, pero limitadas. Para reservar una, consulta con el hotel.",
+    "ca": "La seva web indica «Parking extern (limitat)»: hi ha places, però limitades. Per reservar-ne una, consulta amb l'hotel.",
+    "en": "Their website says \"Parking externo (limitado)\": there are spaces, but limited. To reserve one, check with the hotel.",
+    "fr": "Leur site indique « Parking externo (limitado) » : il y a des places, mais limitées. Pour en réserver une, renseignez-vous auprès de l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "Parking externo (limitado)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "reuniones",
+   "keys": {
+    "es": [
+     "reunion",
+     "sala",
+     "evento",
+     "celebracion",
+     "empresa",
+     "congreso"
+    ],
+    "ca": [
+     "reunio",
+     "sala",
+     "esdeveniment",
+     "celebracio",
+     "empresa",
+     "congres"
+    ],
+    "en": [
+     "meeting",
+     "event",
+     "celebration",
+     "business",
+     "conference"
+    ],
+    "fr": [
+     "reunion",
+     "salle de reunion",
+     "evenement",
+     "celebration",
+     "entreprise",
+     "conference"
+    ]
+   },
+   "a": {
+    "es": "Dispone de tres salas que se adaptan a las necesidades de cada reunión o celebración, con WiFi gratuito.",
+    "ca": "Disposa de tres sales que s'adapten a les necessitats de cada reunió o celebració, amb WiFi gratuït.",
+    "en": "It has three rooms that adapt to the needs of each meeting or celebration, with free WiFi.",
+    "fr": "Il dispose de trois salles qui s'adaptent aux besoins de chaque réunion ou célébration, avec WiFi gratuit."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "Disponemos de tres salas que adaptaremos a tus necesidades"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "Tendrás conexión Wi-Fi gratuita"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "club y descuentos",
+   "keys": {
+    "es": [
+     "club",
+     "descuento",
+     "ventaja",
+     "fidelidad",
+     "cancelacion",
+     "nivel"
+    ],
+    "ca": [
+     "club",
+     "descompte",
+     "avantatge",
+     "fidelitat",
+     "cancel",
+     "nivell"
+    ],
+    "en": [
+     "club",
+     "discount",
+     "advantage",
+     "loyalty",
+     "cancellation",
+     "level"
+    ],
+    "fr": [
+     "club",
+     "reduction",
+     "avantage",
+     "fidelite",
+     "annulation",
+     "niveau"
+    ]
+   },
+   "a": {
+    "es": "Según su web (29/10/2026), presenta un club: el Nivel 1 Key da 5 euros de descuento y el Nivel 2 Premium (+10 noches) da 10 euros de descuento; ambos con flexibilidad en la cancelación. Confírmalo al reservar.",
+    "ca": "Segons la seva web (29/10/2026), presenta un club: el Nivell 1 Key dona 5 euros de descompte i el Nivell 2 Premium (+10 nits) dona 10 euros de descompte; tots dos amb flexibilitat en la cancel·lació. Confirma-ho en reservar.",
+    "en": "According to their website (29/10/2026), it has a club: Level 1 Key gives 5 euros off and Level 2 Premium (+10 nights) gives 10 euros off; both with cancellation flexibility. Confirm it when you book.",
+    "fr": "Selon leur site (29/10/2026), il propose un club : le Niveau 1 Key offre 5 euros de réduction et le Niveau 2 Premium (+10 nuits) offre 10 euros de réduction ; tous deux avec flexibilité d'annulation. Confirmez-le lors de la réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "Nivel 1 Key 5 euros de descuento Flexibilidad en la cancelación"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "Nivel 2 Premium +10 noches 10 euros de descuento"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirmame",
+     "libre",
+     "fechas",
+     "contratar"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "confirma m",
+     "lliure",
+     "dates",
+     "contractar"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room",
+     "dates"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirmez",
+     "libre",
+     "dates"
+    ]
+   },
+   "a": {
+    "es": "Puedes usar el botón «Introducir fechas y ver precios» de su web, escribir a berenguer@key-hotels.com o llamar al 977 449 580. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots fer servir el botó «Introducir fechas y ver precios» de la seva web, escriure a berenguer@key-hotels.com o trucar al 977 449 580. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can use the \"Introducir fechas y ver precios\" button on their website, email berenguer@key-hotels.com or call 977 449 580. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez utiliser le bouton « Introducir fechas y ver precios » de leur site, écrire à berenguer@key-hotels.com ou appeler le 977 449 580. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "Introducir fechas y ver precios"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/contacto/",
+     "quote": "berenguer@key-hotels.com"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "(+34) 977 449 580"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "situado",
+     "mapa",
+     "centro",
+     "llegar",
+     "como llego",
+     "calle",
+     "transporte"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "situat",
+     "mapa",
+     "centre",
+     "arribar",
+     "com arribo",
+     "carrer",
+     "transport"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "located",
+     "map",
+     "centre",
+     "get there",
+     "how do i get",
+     "street",
+     "transport"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "sur la carte",
+     "centre",
+     "venir",
+     "comment arriver",
+     "rue",
+     "transport"
+    ]
+   },
+   "a": {
+    "es": "Está en la calle Despuig, 36, en una vía del centro de Tortosa, a un minuto a pie de la plaza de Alfonso XII, y a la misma distancia del Parque Teodor González y del río Ebro. La ciudad tiene una excelente red de transportes.",
+    "ca": "És al carrer Despuig, 36, en una via del centre de Tortosa, a un minut a peu de la plaça d'Alfonso XII, i a la mateixa distància del Parc Teodor González i del riu Ebre. La ciutat té una excel·lent xarxa de transports.",
+    "en": "It is at Despuig street 36, on a street in the centre of Tortosa, a one-minute walk from Alfonso XII square and the same distance from Teodor González Park and the River Ebro. The city has an excellent transport network.",
+    "fr": "Il est situé rue Despuig 36, dans une rue du centre de Tortosa, à une minute à pied de la place Alfonso XII et à la même distance du parc Teodor González et du fleuve Èbre. La ville dispose d'un excellent réseau de transports."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "Despuig, 36 43500 Tortosa"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "a un minuto a pie de la plaza de Alfonso XII"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "del Parque Teodor González y del río Ebro"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "excelente red de transportes"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "alrededores",
+   "keys": {
+    "es": [
+     "cerca",
+     "alrededor",
+     "naturaleza",
+     "parque natural",
+     "delta",
+     "ports",
+     "visitar",
+     "que ver"
+    ],
+    "ca": [
+     "a prop",
+     "voltant",
+     "natura",
+     "parc natural",
+     "delta",
+     "ports",
+     "visitar",
+     "que veure"
+    ],
+    "en": [
+     "nearby",
+     "near",
+     "what is there",
+     "around",
+     "nature",
+     "natural park",
+     "delta",
+     "ports",
+     "visit",
+     "see"
+    ],
+    "fr": [
+     "pres de",
+     "autour",
+     "nature",
+     "parc naturel",
+     "delta",
+     "ports",
+     "visiter",
+     "voir"
+    ]
+   },
+   "a": {
+    "es": "Su web cita el Parque Natural de Els Ports a 20 km y, a la misma distancia, el Delta del Ebro.",
+    "ca": "La seva web cita el Parc Natural dels Ports a 20 km i, a la mateixa distància, el Delta de l'Ebre.",
+    "en": "Their website mentions the Els Ports Natural Park at 20 km and, at the same distance, the Ebro Delta.",
+    "fr": "Leur site cite le parc naturel d'Els Ports à 20 km et, à la même distance, le delta de l'Èbre."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "Parque Natural de Els Ports a 20 Km"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "el Delta del Ebro"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar",
+     "hablar"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar",
+     "parlar"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     " mail",
+     "contact",
+     "speak"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     " mail",
+     "contact",
+     "parler"
+    ]
+   },
+   "a": {
+    "es": "Teléfono 977 449 580 y correo berenguer@key-hotels.com; su web también tiene un formulario de contacto.",
+    "ca": "Telèfon 977 449 580 i correu berenguer@key-hotels.com; la seva web també té un formulari de contacte.",
+    "en": "Phone 977 449 580 and email berenguer@key-hotels.com; their website also has a contact form.",
+    "fr": "Téléphone 977 449 580 et e-mail berenguer@key-hotels.com ; leur site a aussi un formulaire de contact."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/",
+     "quote": "(+34) 977 449 580"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/contacto/",
+     "quote": "berenguer@key-hotels.com"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/contacto/",
+     "quote": "Si deseas hacernos cualquier pregunta o consulta"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif",
+     "quien es"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif",
+     "qui es"
+    ],
+    "en": [
+     "owner",
+     "owns",
+     "company",
+     "legal name",
+     "cif",
+     "who is"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "societe",
+     "raison sociale",
+     "cif",
+     "qui est"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica como titular a HOTEL BERENGUER IV SA (CIF A61867834), con domicilio en Despuig, 36, Tortosa.",
+    "ca": "El seu avís legal indica com a titular HOTEL BERENGUER IV SA (CIF A61867834), amb domicili a Despuig, 36, Tortosa.",
+    "en": "Their legal notice names HOTEL BERENGUER IV SA (CIF A61867834) as the owner, with registered office at Despuig 36, Tortosa.",
+    "fr": "Leurs mentions légales indiquent HOTEL BERENGUER IV SA (CIF A61867834) comme titulaire, avec siège à Despuig 36, Tortosa."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/aviso-legal/",
+     "quote": "Denominación Social: HOTEL BERENGUER IV SA CIF: A61867834"
+    },
+    {
+     "url": "https://www.hotelberenguer.com/es/aviso-legal/",
+     "quote": "Domicilio Social: Despuig, 36, Tortosa"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K13",
+   "topic": "ofertas",
+   "keys": {
+    "es": [
+     "oferta",
+     "promocion",
+     "escapada"
+    ],
+    "ca": [
+     "oferta",
+     "ofertes",
+     "promocio",
+     "escapada"
+    ],
+    "en": [
+     "offer",
+     "promotion",
+     "deal",
+     "getaway"
+    ],
+    "fr": [
+     "offre",
+     "promotion",
+     "escapade"
+    ]
+   },
+   "a": {
+    "es": "Su web dice que lanzan ofertas periódicamente; no hay ninguna publicada ahora mismo en su página de ofertas.",
+    "ca": "La seva web diu que llancen ofertes periòdicament; no n'hi ha cap de publicada ara mateix a la seva pàgina d'ofertes.",
+    "en": "Their website says they launch offers periodically; none is published right now on their offers page.",
+    "fr": "Leur site dit qu'ils lancent des offres périodiquement ; aucune n'est publiée pour le moment sur leur page d'offres."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelberenguer.com/es/ofertas/",
+     "quote": "Lanzamos ofertas periódicamente. Visítenos pronto para no perdérselas."
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
